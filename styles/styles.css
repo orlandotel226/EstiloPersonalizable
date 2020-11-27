@@ -1,0 +1,28 @@
+body{
+	background: #ABE6FF;
+}
+
+h1{
+	text-align: center;
+}
+
+#welcome_message{
+	position: relative;
+	left: 100px;
+	top: 100px;
+	font-family: 'Rubik', sans-serif;
+}
+
+#text_agreement{
+	position: relative;
+	top: 370px;
+	text-align: center;
+	font-family: 'Rubik', sans-serif;
+}
+
+#owner_company{
+	position: relative;
+	top: 380px;
+	text-align: center;
+	font-family: 'Rubik', sans-serif;
+}
